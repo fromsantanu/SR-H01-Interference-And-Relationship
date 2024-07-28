@@ -11,3 +11,12 @@
 - Data Analysis: Perform correlation and regression analysis to test the hypothesis.
 - Qualitative Follow-up: Conduct interviews with a subset of couples to gain deeper insights.
 - Report Findings: Prepare a comprehensive report and seek publication in a relevant journal.
+
+## Table of Annexures 
+- [Measuring Interference](#)
+- [Measuring Relationship Strength](#)
+- [Participant Recruitment Pollicies](#)
+- [Survey Administration](#)
+- [Data Analysis](#)
+- [Qualitative Follow-up](#)
+- [Reports](#)
