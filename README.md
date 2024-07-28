@@ -28,3 +28,69 @@ Please indicate the extent to which you agree or disagree with the following sta
 - Neutral
 - Agree
 - Strongly Agree
+
+### Questionere
+#### Personal Space
+##### My partner respects my need for personal space.
+- Strongly Disagree
+- Disagree
+- Neutral
+- Agree
+- Strongly Agree
+
+##### I feel that my partner gives me enough alone time when I need it.
+- Strongly Disagree
+- Disagree
+- Neutral
+- Agree
+- Strongly Agree
+
+##### My partner often intrudes on my personal activities or time.
+- Strongly Disagree
+- Disagree
+- Neutral
+- Agree
+- Strongly Agree
+#### Decision-Making Autonomy
+##### I am able to make decisions about my personal matters without interference from my partner.
+- Strongly Disagree
+- Disagree
+- Neutral
+- Agree
+- Strongly Agree
+
+##### My partner supports my decisions regarding my personal goals and activities.
+- Strongly Disagree
+- Disagree
+- Neutral
+- Agree
+- Strongly Agree
+
+##### My partner frequently questions or tries to change my decisions.
+- Strongly Disagree
+- Disagree
+- Neutral
+- Agree
+- Strongly Agree
+
+#### Control Behaviors
+##### My partner tries to control what I do or who I spend time with.
+- Strongly Disagree
+- Disagree
+- Neutral
+- Agree
+- Strongly Agree
+
+##### I feel that my partner allows me to be myself without trying to change me.
+- Strongly Disagree
+- Disagree
+- Neutral
+- Agree
+- Strongly Agree
+
+##### My partner often criticizes or makes negative comments about my choices.
+- Strongly Disagree
+- Disagree
+- Neutral
+- Agree
+- Strongly Agree
