@@ -1,16 +1,63 @@
 # SR-H01-Interference-And-Relationship
 
-## Hypothesis : 
-"Among married couples or those individuals who are in relationships, if they are less interfering with each other, then the strength of the relationship becomes stronger."
+## Hypothesis
+"Minimizing interference in personal decisions can enhance relationship satisfaction and strengthen bonds."
 
-## Research Plan
-- Define Interference: Develop a scale to measure interference, including items on personal space, decision-making autonomy, and control behaviors.
-- Measure Relationship Strength: Use the Relationship Satisfaction Scale (RSS) to measure the strength of relationships.
-- Participant Recruitment: Recruit 200 couples through online platforms, community centers, and counseling services.
-- Survey Administration: Administer the interference and relationship strength surveys to participants.
-- Data Analysis: Perform correlation and regression analysis to test the hypothesis.
-- Qualitative Follow-up: Conduct interviews with a subset of couples to gain deeper insights.
-- Report Findings: Prepare a comprehensive report and seek publication in a relevant journal.
+## Research Design
+### 1. Define Key Concepts
+- Interference in Personal Decisions: Actions or behaviors that limit a partner's autonomy in making personal choices.
+- Relationship Satisfaction: The overall contentment and happiness with the relationship.
+- Strengthening Bonds: The degree of emotional connection, trust, and mutual support between partners.
+### 2. Literature Review
+- Review existing research on relationship dynamics, interference, autonomy, and satisfaction.
+- Identify theoretical frameworks and previous findings to build a solid foundation for your study.
+### 3. Formulate Specific Research Questions
+- How does interference in personal decisions affect relationship satisfaction?
+- What are the mechanisms through which minimizing interference strengthens relationship bonds?
+### 4. Identify and Control Confounding Factors
+- Communication Style: Ensure that differences in communication styles are accounted for.
+- Conflict Resolution: Consider how couples handle disagreements and conflicts.
+- External Stressors: Control for external factors like financial stress, health issues, and work pressures.
+- Individual Differences: Account for personality traits, attachment styles, and past relationship experiences.
+### 5. Research Methodology
+#### Participants
+- Sample: Recruit a diverse sample of married couples or individuals in long-term relationships.
+- Sampling Method: Use stratified sampling to ensure diversity in terms of age, duration of relationship, socio-economic status, etc.
+#### Data Collection
+- Surveys/Questionnaires: Develop or use validated scales to measure interference, relationship satisfaction, and bond strength.
+- Interference Scale: Items on personal space, decision-making autonomy, and control behaviors.
+- Relationship Satisfaction Scale (RSS): Items on communication, emotional support, intimacy, and overall satisfaction.
+- Interviews: Conduct semi-structured interviews to gain qualitative insights.
+- Observations: If feasible, observe couple interactions to supplement survey data.
+
+#### Example Survey Items
+##### Interference in Personal Decisions
+- My partner respects my personal decisions.
+- I feel that I have the freedom to make choices without interference from my partner.
+- My partner often tries to influence my personal decisions.
+
+##### Relationship Satisfaction
+- My partner and I communicate effectively.
+- I feel emotionally supported by my partner.
+- I am happy with the overall quality of my relationship.
+
+##### Strengthening Bonds
+- I feel a strong emotional connection with my partner.
+- My partner and I trust each other completely.
+- Our relationship grows stronger over time.
+
+#### Statistical Analysis
+- Correlation Analysis: Assess the relationship between interference and relationship satisfaction.
+- Regression Analysis: Identify the predictive power of interference reduction on relationship satisfaction, controlling for confounding factors.
+- Thematic Analysis: Analyze qualitative interview data to identify recurring themes and insights.
+
+### 6. Interpretation and Validation
+- Compare findings with existing literature to validate results.
+- Conduct follow-up studies or use mixed methods to strengthen the validity of your conclusions.
+
+### 7. Reporting and Dissemination
+- Write a comprehensive research report, including methodology, data analysis, results, and conclusions.
+- Consider publishing in academic journals, presenting at conferences, or sharing with relationship counselors and therapists.
 
 ## Table of Annexures 
 - [Measuring Interference](https://github.com/fromsantanu/SR-H01-Part-1-Interference)
