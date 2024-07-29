@@ -15,10 +15,10 @@
 - How does interference in personal decisions affect relationship satisfaction?
 - What are the mechanisms through which minimizing interference strengthens relationship bonds?
 ### 4. Identify and Control Confounding Factors
-- Communication Style: Ensure that differences in communication styles are accounted for.
-- Conflict Resolution: Consider how couples handle disagreements and conflicts.
-- External Stressors: Control for external factors like financial stress, health issues, and work pressures.
-- Individual Differences: Account for personality traits, attachment styles, and past relationship experiences.
+- __Communication Style__: Ensure that differences in communication styles are accounted for.
+- __Conflict Resolution__: Consider how couples handle disagreements and conflicts.
+- __External Stressors__: Control for external factors like financial stress, health issues, and work pressures.
+- __Individual Differences__: Account for personality traits, attachment styles, and past relationship experiences.
 ### 5. Research Methodology
 #### Participants
 - Sample: Recruit a diverse sample of married couples or individuals in long-term relationships.
