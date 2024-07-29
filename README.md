@@ -21,14 +21,14 @@
 - __Individual Differences__: Account for personality traits, attachment styles, and past relationship experiences.
 ### 5. Research Methodology
 #### Participants
-- Sample: Recruit a diverse sample of married couples or individuals in long-term relationships.
-- Sampling Method: Use stratified sampling to ensure diversity in terms of age, duration of relationship, socio-economic status, etc.
+- __Sample__: Recruit a diverse sample of married couples or individuals in long-term relationships.
+- __Sampling Method__: Use stratified sampling to ensure diversity in terms of age, duration of relationship, socio-economic status, etc.
 #### Data Collection
-- Surveys/Questionnaires: Develop or use validated scales to measure interference, relationship satisfaction, and bond strength.
-- Interference Scale: Items on personal space, decision-making autonomy, and control behaviors.
-- Relationship Satisfaction Scale (RSS): Items on communication, emotional support, intimacy, and overall satisfaction.
-- Interviews: Conduct semi-structured interviews to gain qualitative insights.
-- Observations: If feasible, observe couple interactions to supplement survey data.
+- __Surveys/Questionnaires__: Develop or use validated scales to measure interference, relationship satisfaction, and bond strength.
+- __Interference Scale__: Items on personal space, decision-making autonomy, and control behaviors.
+- __Relationship Satisfaction Scale (RSS)__: Items on communication, emotional support, intimacy, and overall satisfaction.
+- __Interviews__: Conduct semi-structured interviews to gain qualitative insights.
+- __Observations__: If feasible, observe couple interactions to supplement survey data.
 
 #### Example Survey Items
 ##### Interference in Personal Decisions
